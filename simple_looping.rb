@@ -48,7 +48,6 @@ def for_iterator(number_of_times)
   for num in range
     puts phrase
   end
-  
 end
 
 while_iterator(5)
