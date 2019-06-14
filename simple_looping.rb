@@ -17,7 +17,6 @@ def loop_iterator(number_of_times)
     end
     counter+= 1 
   end
-  
 end
 
 def times_iterator(number_of_times)
