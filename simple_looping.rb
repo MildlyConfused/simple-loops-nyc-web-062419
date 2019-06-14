@@ -50,4 +50,4 @@ def for_iterator(number_of_times)
   end
 end
 
-while_iterator(5)
+for_iterator(5)
