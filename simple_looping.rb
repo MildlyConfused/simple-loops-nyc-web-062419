@@ -55,4 +55,4 @@ def for_iterator(number_of_times)
   end
 end
 
-for_iterator(5)
+until_iterator(5)
